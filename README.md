@@ -1,5 +1,4 @@
-Olá! Apresento a vocês o projeto que eu construí na matéria de Sistemas Digitais do meu curso de Análise e Desenvolvimento de Sistemas, o qual eu curso no Instituto Federal do Rio grande do Norte (IFRN).
-Nesse projeto avaliativo, o objetivo foi construir uma Via de Dados de 32 bits, por meio do software Logisim.
+Olá! Compartilho com vocês um projeto prático que construí durante o curso de Análise e Desenvolvimento de Sistemas no IFRN. Como parte da avaliação de Sistemas Digitais, o desafio foi construir uma Via de Dados de 32 bits do zero, estruturada inteiramente no software Logisim.
 
 1. Os componentes presentes nessa via de dados, para que ela funcione corretamente, são os seguintes:
     * Multiplexador de 2 canais
