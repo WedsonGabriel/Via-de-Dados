@@ -23,4 +23,4 @@ Nesse projeto avaliativo, o objetivo foi construir uma Via de Dados de 32 bits, 
     * Via de Dados
 
 2. A seguir estarei anexando uma imagem de como ficou a aparência final do meu projeto:
-    ![Via de Dados - 32 Bits](/img/via-dados.png)
+    ![Via de Dados - 32 Bits](/img/via-de-dados.png)
